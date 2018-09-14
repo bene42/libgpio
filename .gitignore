@@ -1,6 +1,7 @@
 # wildcard rules
 .*
 !.gitignore
+!.travis.yml
 *~
 \#*#
 *.log
